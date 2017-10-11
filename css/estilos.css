@@ -171,3 +171,37 @@ header .menu .color-1:hover{
     background: #1ba0ef;
     color: #ffffff;
 }
+/*redes solciales */
+.redes-socioales{
+    padding: 40px 0;
+    margin-bottom: 40px;
+}
+.redes-socioales .fa{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    line-height: 100px;
+    color: #ffffff;
+    text-align: center;
+    background: #cbcbcb;
+    display:inline-block;
+    margin: 0px 20px;
+    text-decoration: none;
+    border-radius: 100px;
+    transition: all .3s ease;
+}
+.redes-socioales .twitter{
+    background: #f703ff;
+}
+.redes-socioales .facebook{
+    background: #35ff03;
+}
+.redes-socioales .instagram{
+    background: #fffb03;
+}
+.redes-socioales .pinterest{
+    background: #0368ff;
+}
+.redes-socioales .google-plus{
+    background: #ffaf03;
+}
